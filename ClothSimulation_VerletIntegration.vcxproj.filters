@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ClothSimulation_VerletIntegration.cpp">
+    <ClCompile Include="src\ClothSimulation_VerletIntegration.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
